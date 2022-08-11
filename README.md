@@ -1,8 +1,7 @@
 - 👋 Hi, I’m parthsolanki
-- 👀 I’m interested in java developer and full stack developer.
-- 🌱 I’m currently learning java technology.
-- 💞️ I’m looking to 6-months internship for 8 semester.
-- 📫 How to reach me ...
+- 👀 I’m passionate to work as java developer or full-stack developer.
+- 🌱 I’m did some of projects by myself so that I can use my coding skill and problem solving skill and as result of it, project completed successfully.
+- 📫 You can call me on +91 9327049319
 
 <!---
 parthsol/parthsol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
